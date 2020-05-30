@@ -1,0 +1,188 @@
+/* @import url('https://pro.fontawesome.com/releases/v5.10.0/css/all.csss');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins',
+         sans-serif;
+    background:#eee;
+}
+
+
+.menubar{
+    margin: 0;
+    height: 75px;
+    background-color:gray;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.menubar .leftmenu{
+    width: 25%;
+    text-align: center;
+    padding: 0 10px;
+}
+.menubar .leftmenu h1{
+    font-size: 20px ;
+}
+.menubar .rightmenu{
+    width: 75%!important;
+    /* background-color: chartreuse; */
+
+}
+.menubar .rightmenu ul {
+    list-style: none;
+    float: right;
+    /* margin: 0 15px; */
+}
+.menubar .rightmenu ul li{
+    display: inline;
+   
+}
+.menubar .rightmenu ul li a{
+ text-decoration: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  
+}
+.menubar .rightmenu ul li a:hover{
+    background-color: #ccc;
+}
+
+
+.articlesContent{    
+    display: flex;
+}
+
+.articlesContent ul li{
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    padding: 8px;
+    font-size: 14px;    
+}
+.articlesContent ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#sportsSection{
+    border-right: 1px solid #ccc; 
+    background: #fff;
+    box-shadow: 1px 1px 3px 1px #ccc;
+}
+#sportsFirstTemplate img{
+    height: 100%;
+    width: 100%;
+}
+
+#entertainmentFirstTemplate img{
+    height: 100%;
+    width: 100%;
+}
+#entertainmentSection{    
+    border-right: 1px solid #ccc; 
+    background: #fff;
+    box-shadow: 1px 1px 3px 1px #ccc;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+#covidBlock section{
+    display: flex;
+}
+#covidBlock section{
+background-color: #fff;
+padding: 10px;
+border: 1px solid #ccc;
+box-shadow: 1px 1px 5px 1px #eee;
+margin: 4px 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex: 1;
+}
+/* .main{
+    padding: 50px;
+    display: flex;
+    width: 100%;
+    justify-content:space-between ;
+    height: 700px;
+    background-color: greenyellow;
+}
+ul li{
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    padding: 8px;
+    font-size: 14px;    
+}
+ul{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.sports{
+    background-color: hotpink;
+    width: 30%;
+}
+.sports #sportsSection{
+    border-right: 1px solid #ccc; 
+    background: #fff;
+    box-shadow: 1px 1px 3px 1px #ccc;
+}
+.sports #sportsSection .Title a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+
+}
+.sports #sportsFirstTemplate img{
+    height: 10%;
+    width: 10%;
+}
+.sports #articleContent{
+    width: 100%;
+    font-size: 15px;
+}
+
+#entertainmentFirstTemplate img{
+    height: 100%;
+    width: 100%;
+}
+#entertainmentSection{    
+    border-right: 1px solid #ccc; 
+    background: #fff;
+    box-shadow: 1px 1px 3px 1px #ccc;
+}
+.weather{
+    background-color: indigo;
+    width: 30%;
+}
+.enter{
+    background-color: lightgreen;
+    width: 30%;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
